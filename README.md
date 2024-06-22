@@ -1,3 +1,3 @@
-Beure Force This is a python project
+This is a python project
 
 Deep kansara linkedin : https://www.linkedin.com/in/-deep-kansara-/
